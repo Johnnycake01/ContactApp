@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="phone_contact">Phone Contact</string>
+    <string name="sim_contact">Sim Contact</string>
+    <string name="openDrawer">open Drawer</string>
+    <string name="closeDrawer">close Drawer</string>
+    <string name="images">images</string>
+</resources>
